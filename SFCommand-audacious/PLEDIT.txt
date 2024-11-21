@@ -1,0 +1,8 @@
+[Text]
+Normal=#FF8000
+Current=#FFC600
+NormalBG=#000000
+SelectedBG=#7E3F00
+Font=Trembuchet
+mbFG=#00A4E5
+mbBG=#CDCDCD

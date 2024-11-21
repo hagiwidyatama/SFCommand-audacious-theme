@@ -1,0 +1,8 @@
+[Text]
+Normal=#000080
+Current=#0059BB
+NormalBG=#000000
+SelectedBG=#000040
+Font=StarTrek Film BT
+mbFG=#0059BB ; Minibrowser textcolor
+mbBG=#000000; Minibrowser background color 
